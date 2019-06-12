@@ -1,0 +1,27 @@
+container {
+    display: inline-block;
+}
+
+.banner {
+    height: 100px;
+    width: 100%;
+    border: 1px solid black
+}
+
+.nav {
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.content {
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.footer {
+    height: 20px;
+    width: 100%;
+    border: 1px solid black;
+}
